@@ -6,6 +6,10 @@
 
 Watch the app in action: [MyTrackr Demo Video](https://drive.google.com/file/d/1tHRllKTm7k0Ls3zdUt1d1hlyeeQKWHEm/view?usp=sharing)
 
+## 📥 Download APK
+
+Download and install the app: [MyTrackr APK](https://drive.google.com/file/d/1kYrE3AWDOlBrphaHAGSRLBk6wS_suy9B/view?usp=sharing)
+
 ---
 
 ## 🚀 Features
