@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E88E5</color>
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="primaryContainer">#E3F2FD</color>
+
+    <color name="secondary">#03DAC6</color>
+    <color name="onSecondary">#000000</color>
+
+    <color name="background">#F9FAFB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="onSurface">#212121</color>
+
+    <color name="error">#D32F2F</color>
+    <color name="onError">#FFFFFF</color>
+
+    <color name="signInHeader">#FFFFFF</color>
+
+    <color name="light_gray">#616161</color>
+    <color name="light_red">#EF5350</color>
+    <color name="light_green">#C8E6C9</color>
+    <color name="dark_green">#2E7D32</color>
+
+    <color name="bottom_nav_bg">#DBEAFA</color>
+    
+    <!-- Budget status colors -->
+    <color name="budget_safe">#4CAF50</color>
+    <color name="budget_warning">#FF9800</color>
+    <color name="budget_danger">#F44336</color>
+    <color name="budget_exceeded">#D32F2F</color>
+    
+    <!-- Onboarding colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="indicator_inactive">#E0E0E0</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="input_disabled_bg">#E0E0E0</color>
+    <color name="input_disabled_text">#757575</color>
+
+    <!-- Tab colors -->
+    <color name="tab_container_bg">#E0E0E0</color>
+    <color name="tab_selected_bg">#FFFFFF</color>
+    <color name="tab_selected_text">#212121</color>
+    <color name="tab_unselected_text">#888888</color>
+
+</resources>
